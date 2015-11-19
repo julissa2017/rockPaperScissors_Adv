@@ -1,3 +1,6 @@
+body {
+    background-color:#E8E8E8  ;
+}
 .container { 
     width: 800px;
     width: 800px;
@@ -8,7 +11,7 @@
 }
 .token { 
     width: 32%; 
-    border: 1px solid blue; 
+    border: 4px outset aqua; 
     margin-left: 1px;
     float:left;
     text-align: center;
